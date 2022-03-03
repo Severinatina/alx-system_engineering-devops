@@ -1,2 +1,4 @@
 #!/bin/bash 7-everybody
 chmod a+x hello 7-everybody
+#!/bin/bash 103-Star_Wars
+telnet towel.blinkenlights.nl 103-Star_Wars
