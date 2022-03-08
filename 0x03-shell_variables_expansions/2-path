@@ -1,22 +1,2 @@
 #!/bin/bash
 PATH=$PATH:/action
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   ../0x02-shell_redirections/.0-hello_world.swp
-	modified:   ../0x02-shell_redirections/.swp
-	modified:   ../0x02-shell_redirections/1-confused_smiley
-	modified:   ../0x02-shell_redirections/100-empty_casks
-	modified:   ../0x02-shell_redirections/102-acrostic
-	modified:   ../0x02-shell_redirections/README.md
-	modified:   ../0x02-shell_redirections/lastlines
-	modified:   ../0x02-shell_redirections/touch
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	2-path
-
-no changes added to commit (use "git add" and/or "git commit -a")
